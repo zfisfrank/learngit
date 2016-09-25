@@ -8,3 +8,5 @@ One more line in DEV
 Creating a new branch is quick and simple
 
 One more DEV change
+
+Try the stash
